@@ -18,9 +18,9 @@
                                                                                 }
                                                                }
                                                            ],
-                                            "name":  "NeoForge 21.1.121",
-                                            "id":  "neoforge-21.1.121",
-                                            "type":  "ForgeHosted",
+"name":  "NeoForge 21.1.121",
+                                             "id":  "net.neoforged:neoforge:21.1.121",
+                                             "type":  "ForgeHosted",
                                             "artifact":  {
                                                              "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/neoforge-21.1.121-universal.jar",
                                                              "size":  3014945
