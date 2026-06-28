@@ -22,7 +22,7 @@
                     "id": "net.neoforged:neoforge:21.1.121",
                     "type": "ForgeHosted",
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/neoforge-21.1.121-universal.jar",
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/neoforge-21.1.121-universal.jar",
                         "size": 3014945
                     }
                 },
@@ -35,8 +35,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/accessories_compat_layer-neoforge-0.1.12%2B1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/accessories_compat_layer-neoforge-0.1.12%2B1.21.1.jar",
+                        "size": 405416
                     }
                 },
                 {
@@ -48,8 +48,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
+                        "size": 1078697
                     }
                 },
                 {
@@ -61,8 +61,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/aeroworks-1.2.9%20(1).jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/aeroworks-1.2.9%20(1).jar",
+                        "size": 183858
                     }
                 },
                 {
@@ -74,8 +74,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/alexscaves-2.0.10.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/alexscaves-2.0.10.jar",
+                        "size": 74900204
                     }
                 },
                 {
@@ -87,8 +87,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+                        "size": 75804
                     }
                 },
                 {
@@ -100,8 +100,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/architectury-13.0.8-neoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/architectury-13.0.8-neoforge.jar",
+                        "size": 584004
                     }
                 },
                 {
@@ -113,8 +113,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/BadOptimizations-2.4.1-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/BadOptimizations-2.4.1-1.21.1.jar",
+                        "size": 283566
                     }
                 },
                 {
@@ -126,8 +126,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/bellsandwhistles-0.4.7-1.21.1%20(1).jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/bellsandwhistles-0.4.7-1.21.1%20(1).jar",
+                        "size": 193619
                     }
                 },
                 {
@@ -139,8 +139,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/better_modlist-1.1.22.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/better_modlist-1.1.22.jar",
+                        "size": 805721
                     }
                 },
                 {
@@ -152,8 +152,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/better-clouds-1.7.20-alpha%2B1.21.1-neoforge.rev.4c611d9.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/better-clouds-1.7.20-alpha%2B1.21.1-neoforge.rev.4c611d9.jar",
+                        "size": 790657
                     }
                 },
                 {
@@ -165,8 +165,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+                        "size": 481646
                     }
                 },
                 {
@@ -178,8 +178,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/blockentities-%5BNEOFORGED%5D-1.21.1%2B1.1.0.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/blockentities-%5BNEOFORGED%5D-1.21.1%2B1.1.0.jar",
+                        "size": 193539
                     }
                 },
                 {
@@ -191,8 +191,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/chat_heads-0.15.1-neoforge-1.21.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/chat_heads-0.15.1-neoforge-1.21.jar",
+                        "size": 89272
                     }
                 },
                 {
@@ -204,8 +204,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/ChatShot%20(1.21.x-neoforge)-1.0.4.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/ChatShot%20(1.21.x-neoforge)-1.0.4.jar",
+                        "size": 65761
                     }
                 },
                 {
@@ -217,8 +217,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/Chunky-NeoForge-1.4.23.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Chunky-NeoForge-1.4.23.jar",
+                        "size": 340572
                     }
                 },
                 {
@@ -230,8 +230,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/citadel-1.21.1-2.7.6.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/citadel-1.21.1-2.7.6.jar",
+                        "size": 3028943
                     }
                 },
                 {
@@ -243,8 +243,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/cloth-config-15.0.140-neoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/cloth-config-15.0.140-neoforge.jar",
+                        "size": 1163890
                     }
                 },
                 {
@@ -256,8 +256,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/collective-1.21.1-8.20.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/collective-1.21.1-8.20.jar",
+                        "size": 942780
                     }
                 },
                 {
@@ -269,8 +269,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/colorwheel-neoforge-1.2.4%2Bmc1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/colorwheel-neoforge-1.2.4%2Bmc1.21.1.jar",
+                        "size": 384085
                     }
                 },
                 {
@@ -282,8 +282,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/connector-2.0.0-beta.14%2B1.21.1-full.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/connector-2.0.0-beta.14%2B1.21.1-full.jar",
+                        "size": 4526785
                     }
                 },
                 {
@@ -295,8 +295,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/continuity-3.0.0%2B1.21.neoforge_mapped_moj_1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/continuity-3.0.0%2B1.21.neoforge_mapped_moj_1.21.1.jar",
+                        "size": 1020071
                     }
                 },
                 {
@@ -308,8 +308,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
+                        "size": 1791747
                     }
                 },
                 {
@@ -321,8 +321,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/Create%20Unbreakable%20Netherite%20Axe%202%20Neoforge-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Create%20Unbreakable%20Netherite%20Axe%202%20Neoforge-1.21.1.jar",
+                        "size": 232779
                     }
                 },
                 {
@@ -334,8 +334,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/Create%20Unbreakable%20Netherite%20Shovel%202%20Neoforge-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Create%20Unbreakable%20Netherite%20Shovel%202%20Neoforge-1.21.1.jar",
+                        "size": 216242
                     }
                 },
                 {
@@ -347,8 +347,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/Create%20Unbreakable%20Netherite%20Sword%202%20Neoforge-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Create%20Unbreakable%20Netherite%20Sword%202%20Neoforge-1.21.1.jar",
+                        "size": 229679
                     }
                 },
                 {
@@ -360,8 +360,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/create_connected-1.1.16-mc1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create_connected-1.1.16-mc1.21.1.jar",
+                        "size": 6608605
                     }
                 },
                 {
@@ -373,8 +373,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
+                        "size": 423111
                     }
                 },
                 {
@@ -386,8 +386,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/create_mobile_packages-1.21.1-0.7.4.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create_mobile_packages-1.21.1-0.7.4.jar",
+                        "size": 532285
                     }
                 },
                 {
@@ -399,8 +399,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/create_radar-0.4.9.4-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create_radar-0.4.9.4-1.21.1.jar",
+                        "size": 2990812
                     }
                 },
                 {
@@ -412,8 +412,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/create_rustic_structures-1.0.0-neoforge-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create_rustic_structures-1.0.0-neoforge-1.21.1.jar",
+                        "size": 710280
                     }
                 },
                 {
@@ -425,8 +425,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/create_sky_village-0.0.38%20NeoForge%201.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create_sky_village-0.0.38%20NeoForge%201.21.1.jar",
+                        "size": 3268910
                     }
                 },
                 {
@@ -438,8 +438,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/create-1.21.1-6.0.10.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create-1.21.1-6.0.10.jar",
+                        "size": 19123767
                     }
                 },
                 {
@@ -451,8 +451,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/createaddition-1.5.10.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createaddition-1.5.10.jar",
+                        "size": 1595173
                     }
                 },
                 {
@@ -464,8 +464,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/create-aeronautics-bundled-1.21.1-1.2.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+                        "size": 33030286
                     }
                 },
                 {
@@ -477,8 +477,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/createbigcannons-5.11.3-mc.1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createbigcannons-5.11.3-mc.1.21.1.jar",
+                        "size": 3715787
                     }
                 },
                 {
@@ -490,8 +490,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/createdeco-2.1.3.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createdeco-2.1.3.jar",
+                        "size": 3328498
                     }
                 },
                 {
@@ -503,8 +503,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/CreateDragonsPlus-1.10.0b.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/CreateDragonsPlus-1.10.0b.jar",
+                        "size": 756460
                     }
                 },
                 {
@@ -516,8 +516,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/create-enchantment-industry-2.3.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create-enchantment-industry-2.3.1.jar",
+                        "size": 684729
                     }
                 },
                 {
@@ -529,8 +529,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/createendertransmission-2.1.1-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createendertransmission-2.1.1-1.21.1.jar",
+                        "size": 84366
                     }
                 },
                 {
@@ -542,8 +542,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/createjeicompat-1.0.2.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createjeicompat-1.0.2.jar",
+                        "size": 14013
                     }
                 },
                 {
@@ -555,8 +555,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/create-new-age-1.1.7c%2Bneoforge-mc1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create-new-age-1.1.7c%2Bneoforge-mc1.21.1.jar",
+                        "size": 1590363
                     }
                 },
                 {
@@ -568,8 +568,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/createpropulsion-1.1.4%20(1).jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createpropulsion-1.1.4%20(1).jar",
+                        "size": 1196735
                     }
                 },
                 {
@@ -581,8 +581,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/create-stuff-additions1.21.1_v2.1.3.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create-stuff-additions1.21.1_v2.1.3.jar",
+                        "size": 1325365
                     }
                 },
                 {
@@ -594,8 +594,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+                        "size": 77249
                     }
                 },
                 {
@@ -607,8 +607,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
+                        "size": 1216443
                     }
                 },
                 {
@@ -620,8 +620,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+                        "size": 1185088
                     }
                 },
                 {
@@ -633,8 +633,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/cupboard-1.21-3.5.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/cupboard-1.21-3.5.jar",
+                        "size": 26659
                     }
                 },
                 {
@@ -646,8 +646,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/curios-neoforge-9.5.1%2B1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/curios-neoforge-9.5.1%2B1.21.1.jar",
+                        "size": 410690
                     }
                 },
                 {
@@ -659,8 +659,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/DnDesires-1.21.1-2.3a-BETA%20(1).jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/DnDesires-1.21.1-2.3a-BETA%20(1).jar",
+                        "size": 1249099
                     }
                 },
                 {
@@ -672,8 +672,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
+                        "size": 220193
                     }
                 },
                 {
@@ -685,8 +685,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+                        "size": 861829
                     }
                 },
                 {
@@ -698,8 +698,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/emotetweaks-neoforge-1.0.4.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/emotetweaks-neoforge-1.0.4.jar",
+                        "size": 68375
                     }
                 },
                 {
@@ -711,8 +711,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+                        "size": 1330403
                     }
                 },
                 {
@@ -724,8 +724,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/endrem_additions-neoforge-1.1.0.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/endrem_additions-neoforge-1.1.0.jar",
+                        "size": 94215
                     }
                 },
                 {
@@ -737,8 +737,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/endrem-neoforge-1.21.X-6.0.2.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/endrem-neoforge-1.21.X-6.0.2.jar",
+                        "size": 942510
                     }
                 },
                 {
@@ -750,8 +750,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/entity_model_features_1.21-neoforge-3.2.2.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/entity_model_features_1.21-neoforge-3.2.2.jar",
+                        "size": 565641
                     }
                 },
                 {
@@ -763,8 +763,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/entity_texture_features_1.21-neoforge-7.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/entity_texture_features_1.21-neoforge-7.1.jar",
+                        "size": 752334
                     }
                 },
                 {
@@ -776,8 +776,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/entityculling-neoforge-1.10.1-mc1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/entityculling-neoforge-1.10.1-mc1.21.1.jar",
+                        "size": 1578350
                     }
                 },
                 {
@@ -789,8 +789,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/escalated-1.3.0-mc.1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/escalated-1.3.0-mc.1.21.1.jar",
+                        "size": 511143
                     }
                 },
                 {
@@ -802,8 +802,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/exposure-neoforge-1.21.1-1.9.16.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/exposure-neoforge-1.21.1-1.9.16.jar",
+                        "size": 2189912
                     }
                 },
                 {
@@ -815,8 +815,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/FarmersDelight-1.21.1-1.3.0.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/FarmersDelight-1.21.1-1.3.0.jar",
+                        "size": 3119053
                     }
                 },
                 {
@@ -828,8 +828,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/ferritecore-7.0.3-neoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/ferritecore-7.0.3-neoforge.jar",
+                        "size": 121559
                     }
                 },
                 {
@@ -841,8 +841,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/forgematica-0.4.1%2Bmc1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/forgematica-0.4.1%2Bmc1.21.1.jar",
+                        "size": 1383228
                     }
                 },
                 {
@@ -854,8 +854,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
+                        "size": 5569717
                     }
                 },
                 {
@@ -867,8 +867,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/FramedBlocks-10.5.3.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/FramedBlocks-10.5.3.jar",
+                        "size": 4301567
                     }
                 },
                 {
@@ -880,8 +880,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/geckolib-neoforge-1.21.1-4.8.4.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+                        "size": 622582
                     }
                 },
                 {
@@ -893,8 +893,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/gjeb-neoforge-1.21.1-1.3.0.40.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/gjeb-neoforge-1.21.1-1.3.0.40.jar",
+                        "size": 78696
                     }
                 },
                 {
@@ -906,8 +906,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/globalpacks-neoforge-1.21.1-21.0.6.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/globalpacks-neoforge-1.21.1-21.0.6.jar",
+                        "size": 27239
                     }
                 },
                 {
@@ -919,8 +919,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/gpumemleakfix-1.21-1.8.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/gpumemleakfix-1.21-1.8.jar",
+                        "size": 6574
                     }
                 },
                 {
@@ -932,8 +932,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/hideexperimentalwarning-1.21.1-1.2.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/hideexperimentalwarning-1.21.1-1.2.jar",
+                        "size": 18715
                     }
                 },
                 {
@@ -945,8 +945,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar",
+                        "size": 368598
                     }
                 },
                 {
@@ -958,8 +958,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.jar",
+                        "size": 217081
                     }
                 },
                 {
@@ -971,8 +971,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/interiors-1.21.1-neoforge-0.6.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/interiors-1.21.1-neoforge-0.6.1.jar",
+                        "size": 486912
                     }
                 },
                 {
@@ -984,8 +984,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+                        "size": 2438548
                     }
                 },
                 {
@@ -997,8 +997,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/Jade-1.21.1-NeoForge-15.10.5.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+                        "size": 725742
                     }
                 },
                 {
@@ -1010,8 +1010,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+                        "size": 74419
                     }
                 },
                 {
@@ -1023,8 +1023,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/jei-1.21.1-neoforge-19.27.0.340.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/jei-1.21.1-neoforge-19.27.0.340.jar",
+                        "size": 1529391
                     }
                 },
                 {
@@ -1036,8 +1036,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+                        "size": 43798
                     }
                 },
                 {
@@ -1049,8 +1049,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+                        "size": 618842
                     }
                 },
                 {
@@ -1062,8 +1062,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/kubejs-neoforge-2101.7.2-build.363.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/kubejs-neoforge-2101.7.2-build.363.jar",
+                        "size": 2270442
                     }
                 },
                 {
@@ -1075,8 +1075,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/letsdo-brewery-neoforge-2.1.9.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/letsdo-brewery-neoforge-2.1.9.jar",
+                        "size": 1656054
                     }
                 },
                 {
@@ -1088,8 +1088,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/letsdo-farm_and_charm-neoforge-1.1.22.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/letsdo-farm_and_charm-neoforge-1.1.22.jar",
+                        "size": 2580595
                     }
                 },
                 {
@@ -1101,8 +1101,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/letsdo-vinery-neoforge-1.5.3.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/letsdo-vinery-neoforge-1.5.3.jar",
+                        "size": 2001616
                     }
                 },
                 {
@@ -1114,8 +1114,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/lithostitched-1.7.2-neoforge-21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/lithostitched-1.7.2-neoforge-21.1.jar",
+                        "size": 810015
                     }
                 },
                 {
@@ -1127,8 +1127,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/mafglib-0.4.3%2Bmc1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/mafglib-0.4.3%2Bmc1.21.1.jar",
+                        "size": 1314767
                     }
                 },
                 {
@@ -1140,8 +1140,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/melody_neoforge_1.0.10_MC_1.21.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/melody_neoforge_1.0.10_MC_1.21.jar",
+                        "size": 36096
                     }
                 },
                 {
@@ -1153,8 +1153,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/modernfix-neoforge-5.27.4%2Bmc1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/modernfix-neoforge-5.27.4%2Bmc1.21.1.jar",
+                        "size": 562051
                     }
                 },
                 {
@@ -1166,8 +1166,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/moonlight-1.21-2.29.33-neoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/moonlight-1.21-2.29.33-neoforge.jar",
+                        "size": 1596760
                     }
                 },
                 {
@@ -1179,8 +1179,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/moonlight-neoforge-1.21.1-3.0.7%20(1).jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/moonlight-neoforge-1.21.1-3.0.7%20(1).jar",
+                        "size": 1573221
                     }
                 },
                 {
@@ -1192,8 +1192,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/moreculling-neoforge-1.21.1-1.0.7.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/moreculling-neoforge-1.21.1-1.0.7.jar",
+                        "size": 344279
                     }
                 },
                 {
@@ -1205,8 +1205,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/MossyLib-1.1.0%2B1.21.1%2Bneoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/MossyLib-1.1.0%2B1.21.1%2Bneoforge.jar",
+                        "size": 178015
                     }
                 },
                 {
@@ -1218,8 +1218,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+                        "size": 73938
                     }
                 },
                 {
@@ -1231,8 +1231,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar",
+                        "size": 243953
                     }
                 },
                 {
@@ -1244,8 +1244,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/noisium-neoforge-2.7.0%2Bmc1.21-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/noisium-neoforge-2.7.0%2Bmc1.21-1.21.1.jar",
+                        "size": 60512
                     }
                 },
                 {
@@ -1257,8 +1257,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/notebook-4.1.1%2B1.21-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/notebook-4.1.1%2B1.21-1.21.1.jar",
+                        "size": 55999
                     }
                 },
                 {
@@ -1270,8 +1270,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/notebook-4.1.1%2B1.21-1.21.1_mapped_moj_1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/notebook-4.1.1%2B1.21-1.21.1_mapped_moj_1.21.1.jar",
+                        "size": 56691
                     }
                 },
                 {
@@ -1283,8 +1283,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/no-void-structures-2.0.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/no-void-structures-2.0.1.jar",
+                        "size": 199166
                     }
                 },
                 {
@@ -1296,8 +1296,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
+                        "size": 544378
                     }
                 },
                 {
@@ -1309,8 +1309,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
+                        "size": 1221583
                     }
                 },
                 {
@@ -1322,8 +1322,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+                        "size": 46623
                     }
                 },
                 {
@@ -1335,8 +1335,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/particular-1.21.1-NeoForge-1.1.7.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/particular-1.21.1-NeoForge-1.1.7.jar",
+                        "size": 221535
                     }
                 },
                 {
@@ -1348,8 +1348,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/railways-0.2.0-beta.2%2Bneoforge-mc1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/railways-0.2.0-beta.2%2Bneoforge-mc1.21.1.jar",
+                        "size": 11904503
                     }
                 },
                 {
@@ -1361,8 +1361,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/rbp_neoforge-1.0.0.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/rbp_neoforge-1.0.0.jar",
+                        "size": 8535
                     }
                 },
                 {
@@ -1374,8 +1374,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar",
+                        "size": 78451
                     }
                 },
                 {
@@ -1387,8 +1387,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/reforgedplaymod-1.21.1-0.3.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/reforgedplaymod-1.21.1-0.3.jar",
+                        "size": 17406874
                     }
                 },
                 {
@@ -1400,8 +1400,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+                        "size": 341009
                     }
                 },
                 {
@@ -1413,8 +1413,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+                        "size": 484332
                     }
                 },
                 {
@@ -1426,8 +1426,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/revamped-floating-islands-1.1.6.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/revamped-floating-islands-1.1.6.jar",
+                        "size": 670935
                     }
                 },
                 {
@@ -1439,8 +1439,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/rhino-2101.2.7-build.81.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/rhino-2101.2.7-build.81.jar",
+                        "size": 882032
                     }
                 },
                 {
@@ -1452,8 +1452,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
+                        "size": 76369
                     }
                 },
                 {
@@ -1465,8 +1465,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sable-neoforge-1.21.1-1.2.2.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sable-neoforge-1.21.1-1.2.2.jar",
+                        "size": 12719293
                     }
                 },
                 {
@@ -1478,8 +1478,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/SableStuffAdditionsCompat%20v1.0.1-1.21.1%20(4).jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/SableStuffAdditionsCompat%20v1.0.1-1.21.1%20(4).jar",
+                        "size": 29997
                     }
                 },
                 {
@@ -1491,8 +1491,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/scholar-neoforge-1.21.1-1.2.3.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/scholar-neoforge-1.21.1-1.2.3.jar",
+                        "size": 922019
                     }
                 },
                 {
@@ -1504,8 +1504,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/Scribble-1.5.1%2Bmc1.21-neoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Scribble-1.5.1%2Bmc1.21-neoforge.jar",
+                        "size": 86944
                     }
                 },
                 {
@@ -1517,8 +1517,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/shellbound_for_airship-1.0.0-neoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/shellbound_for_airship-1.0.0-neoforge.jar",
+                        "size": 1566651
                     }
                 },
                 {
@@ -1530,8 +1530,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/smooth_hover-neoforge-1.0.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/smooth_hover-neoforge-1.0.jar",
+                        "size": 72199
                     }
                 },
                 {
@@ -1543,8 +1543,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+                        "size": 299353
                     }
                 },
                 {
@@ -1556,8 +1556,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar",
+                        "size": 367047
                     }
                 },
                 {
@@ -1569,8 +1569,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sodiumextras-neoforge-1.0.8-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sodiumextras-neoforge-1.0.8-1.21.1.jar",
+                        "size": 276988
                     }
                 },
                 {
@@ -1582,8 +1582,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+                        "size": 1162994
                     }
                 },
                 {
@@ -1595,8 +1595,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+                        "size": 309122
                     }
                 },
                 {
@@ -1608,8 +1608,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
+                        "size": 180622
                     }
                 },
                 {
@@ -1621,8 +1621,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
+                        "size": 1023170
                     }
                 },
                 {
@@ -1634,8 +1634,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+                        "size": 1023170
                     }
                 },
                 {
@@ -1647,8 +1647,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+                        "size": 82315
                     }
                 },
                 {
@@ -1660,8 +1660,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sophisticatedcore-1.21.1-1.4.29.1752.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedcore-1.21.1-1.4.29.1752.jar",
+                        "size": 1481883
                     }
                 },
                 {
@@ -1673,8 +1673,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sophisticatedcore-1.21.1-1.4.33.1808.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedcore-1.21.1-1.4.33.1808.jar",
+                        "size": 1482610
                     }
                 },
                 {
@@ -1686,8 +1686,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sophisticatedsorter-1.0.6-hotfix.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedsorter-1.0.6-hotfix.jar",
+                        "size": 38387
                     }
                 },
                 {
@@ -1699,8 +1699,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sophisticatedstorage-1.21.1-1.5.44.1680.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedstorage-1.21.1-1.5.44.1680.jar",
+                        "size": 1666661
                     }
                 },
                 {
@@ -1712,8 +1712,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+                        "size": 133451
                     }
                 },
                 {
@@ -1725,8 +1725,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
+                        "size": 8732437
                     }
                 },
                 {
@@ -1738,8 +1738,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/tenshilib-1.21.1-2.2.5-neoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/tenshilib-1.21.1-2.2.5-neoforge.jar",
+                        "size": 726455
                     }
                 },
                 {
@@ -1751,8 +1751,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/tracks-neoforge-1.21.1-1.0.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/tracks-neoforge-1.21.1-1.0.1.jar",
+                        "size": 166455
                     }
                 },
                 {
@@ -1764,8 +1764,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/Tyz's%20skills%206.2.0%20-%201.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Tyz's%20skills%206.2.0%20-%201.21.1.jar",
+                        "size": 785664
                     }
                 },
                 {
@@ -1777,8 +1777,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/unbreakable_netherite_pickaxe-1.0.0-neoforge-1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/unbreakable_netherite_pickaxe-1.0.0-neoforge-1.21.1.jar",
+                        "size": 28221
                     }
                 },
                 {
@@ -1790,8 +1790,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/variantsandventures-neoforge-1.0.24%2Bmc1.21.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/variantsandventures-neoforge-1.0.24%2Bmc1.21.1.jar",
+                        "size": 1080608
                     }
                 },
                 {
@@ -1803,8 +1803,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/VistaAeronauticsFix-1.0.0.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/VistaAeronauticsFix-1.0.0.jar",
+                        "size": 155054
                     }
                 },
                 {
@@ -1816,8 +1816,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/vista-neoforge-1.21.1-4.3.1.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/vista-neoforge-1.21.1-4.3.1.jar",
+                        "size": 5355098
                     }
                 },
                 {
@@ -1829,8 +1829,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/voicechat-neoforge-1.21.1-2.6.16.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/voicechat-neoforge-1.21.1-2.6.16.jar",
+                        "size": 4901132
                     }
                 },
                 {
@@ -1842,8 +1842,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/walkietalkie-neoforge-1.21.1-1.0.5.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/walkietalkie-neoforge-1.21.1-1.0.5.jar",
+                        "size": 219171
                     }
                 },
                 {
@@ -1855,8 +1855,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
+                        "size": 256825
                     }
                 },
                 {
@@ -1868,8 +1868,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/watermedia-2.1.34.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/watermedia-2.1.34.jar",
+                        "size": 37857681
                     }
                 },
                 {
@@ -1881,8 +1881,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
+                        "size": 78233
                     }
                 },
                 {
@@ -1894,8 +1894,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/WeatherRefind-neoforge-1.21.1-v1.4.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/WeatherRefind-neoforge-1.21.1-v1.4.jar",
+                        "size": 24894
                     }
                 },
                 {
@@ -1907,8 +1907,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/worldedit-mod-7.3.8.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/worldedit-mod-7.3.8.jar",
+                        "size": 6222854
                     }
                 },
                 {
@@ -1920,8 +1920,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/xaerominimap-neoforge-1.21.1-25.3.10.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+                        "size": 2137784
                     }
                 },
                 {
@@ -1933,8 +1933,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+                        "size": 1386001
                     }
                 },
                 {
@@ -1946,8 +1946,8 @@
                         "def": true
                     },
                     "artifact": {
-                        "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
-                        "size": 0
+                        "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+                        "size": 1118651
                     }
                 }
             ],
