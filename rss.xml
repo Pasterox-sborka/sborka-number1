@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Pasterox News</title>
+    <link>https://t.me/Pasterox</link>
+    <description>Latest news from Pasterox</description>
+    <language>ru</language>
+    <lastBuildDate>Вс, 28 июн 2026 19:45:07 G6T</lastBuildDate>
+    <item>
+      <title>Добро пожаловать на Pasterox!</title>
+      <link>https://t.me/Pasterox</link>
+      <description>Сервер с NeoForge 1.21.1. IP: c15.play2go.cloud:20058</description>
+      <guid isPermaLink="false">welcome</guid>
+    </item>
+  </channel>
+</rss>

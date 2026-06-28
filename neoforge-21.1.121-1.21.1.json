@@ -1,0 +1,15 @@
+﻿{
+    "mainClass":  "net.minecraft.client.main.Main",
+    "id":  "neoforge-21.1.121-1.21.1",
+    "type":  "release",
+    "releaseType":  "release",
+    "inheritsFrom":  "1.21.1",
+    "time":  "2026-06-28T19:42:38+08:00",
+    "libraries":  [
+
+                  ],
+    "arguments":  {
+
+                  },
+    "minecraftArguments":  ""
+}

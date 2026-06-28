@@ -1,0 +1,1233 @@
+﻿{
+    "rss":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/rss.xml",
+    "servers":  [
+                    {
+                        "icon":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/icon.png",
+                        "modpackDir":  "pasterox",
+                        "minecraftVersion":  "1.21.1",
+                        "address":  "c15.play2go.cloud:20058",
+                        "modules":  [
+                                        {
+                                            "subModules":  [
+                                                               {
+                                                                   "id":  "neoforge-21.1.121-1.21.1",
+                                                                   "type":  "VersionManifest",
+                                                                   "artifact":  {
+                                                                                    "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/neoforge-21.1.121-1.21.1.json",
+                                                                                    "size":  355
+                                                                                }
+                                                               }
+                                                           ],
+                                            "name":  "NeoForge 21.1.121",
+                                            "id":  "neoforge-21.1.121",
+                                            "type":  "ForgeHosted",
+                                            "artifact":  {
+                                                             "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/neoforge-21.1.121-universal.jar",
+                                                             "size":  3014945
+                                                         }
+                                        }
+                                    ],
+                        "memory":  4096,
+                        "mainClass":  "net.neoforged.neoforge.bootstrap.MainLauncher",
+                        "mods":  [
+                                     {
+                                         "name":  "accessories_compat_layer-neoforge-0.1.12+1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/accessories_compat_layer-neoforge-0.1.12%2B1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "accessories-neoforge-1.1.0-beta.53+1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "aeroworks-1.2.9 (1)",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/aeroworks-1.2.9%20(1).jar"
+                                     },
+                                     {
+                                         "name":  "alexscaves-2.0.10",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/alexscaves-2.0.10.jar"
+                                     },
+                                     {
+                                         "name":  "appleskin-neoforge-mc1.21-3.0.9",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar"
+                                     },
+                                     {
+                                         "name":  "architectury-13.0.8-neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/architectury-13.0.8-neoforge.jar"
+                                     },
+                                     {
+                                         "name":  "BadOptimizations-2.4.1-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/BadOptimizations-2.4.1-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "bellsandwhistles-0.4.7-1.21.1 (1)",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/bellsandwhistles-0.4.7-1.21.1%20(1).jar"
+                                     },
+                                     {
+                                         "name":  "better_modlist-1.1.22",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/better_modlist-1.1.22.jar"
+                                     },
+                                     {
+                                         "name":  "better-clouds-1.7.20-alpha+1.21.1-neoforge.rev.4c611d9",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/better-clouds-1.7.20-alpha%2B1.21.1-neoforge.rev.4c611d9.jar"
+                                     },
+                                     {
+                                         "name":  "BetterF3-11.0.3-NeoForge-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/BetterF3-11.0.3-NeoForge-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "blockentities-[NEOFORGED]-1.21.1+1.1.0",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/blockentities-%5BNEOFORGED%5D-1.21.1%2B1.1.0.jar"
+                                     },
+                                     {
+                                         "name":  "chat_heads-0.15.1-neoforge-1.21",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/chat_heads-0.15.1-neoforge-1.21.jar"
+                                     },
+                                     {
+                                         "name":  "ChatShot (1.21.x-neoforge)-1.0.4",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/ChatShot%20(1.21.x-neoforge)-1.0.4.jar"
+                                     },
+                                     {
+                                         "name":  "Chunky-NeoForge-1.4.23",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Chunky-NeoForge-1.4.23.jar"
+                                     },
+                                     {
+                                         "name":  "citadel-1.21.1-2.7.6",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/citadel-1.21.1-2.7.6.jar"
+                                     },
+                                     {
+                                         "name":  "cloth-config-15.0.140-neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/cloth-config-15.0.140-neoforge.jar"
+                                     },
+                                     {
+                                         "name":  "collective-1.21.1-8.20",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/collective-1.21.1-8.20.jar"
+                                     },
+                                     {
+                                         "name":  "colorwheel-neoforge-1.2.4+mc1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/colorwheel-neoforge-1.2.4%2Bmc1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "connector-2.0.0-beta.14+1.21.1-full",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/connector-2.0.0-beta.14%2B1.21.1-full.jar"
+                                     },
+                                     {
+                                         "name":  "continuity-3.0.0+1.21.neoforge_mapped_moj_1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/continuity-3.0.0%2B1.21.neoforge_mapped_moj_1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "copycats-3.0.4+mc.1.21.1-neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar"
+                                     },
+                                     {
+                                         "name":  "Create Unbreakable Netherite Axe 2 Neoforge-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Create%20Unbreakable%20Netherite%20Axe%202%20Neoforge-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "Create Unbreakable Netherite Shovel 2 Neoforge-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Create%20Unbreakable%20Netherite%20Shovel%202%20Neoforge-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "Create Unbreakable Netherite Sword 2 Neoforge-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Create%20Unbreakable%20Netherite%20Sword%202%20Neoforge-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "create_connected-1.1.16-mc1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create_connected-1.1.16-mc1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "create_hypertube-0.4.0-COMPAT-NEOFORGE",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar"
+                                     },
+                                     {
+                                         "name":  "create_mobile_packages-1.21.1-0.7.4",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create_mobile_packages-1.21.1-0.7.4.jar"
+                                     },
+                                     {
+                                         "name":  "create_radar-0.4.9.4-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create_radar-0.4.9.4-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "create_rustic_structures-1.0.0-neoforge-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create_rustic_structures-1.0.0-neoforge-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "create_sky_village-0.0.38 NeoForge 1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create_sky_village-0.0.38%20NeoForge%201.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "create-1.21.1-6.0.10",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create-1.21.1-6.0.10.jar"
+                                     },
+                                     {
+                                         "name":  "createaddition-1.5.10",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createaddition-1.5.10.jar"
+                                     },
+                                     {
+                                         "name":  "create-aeronautics-bundled-1.21.1-1.2.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create-aeronautics-bundled-1.21.1-1.2.1.jar"
+                                     },
+                                     {
+                                         "name":  "createbigcannons-5.11.3-mc.1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createbigcannons-5.11.3-mc.1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "createdeco-2.1.3",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createdeco-2.1.3.jar"
+                                     },
+                                     {
+                                         "name":  "CreateDragonsPlus-1.10.0b",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/CreateDragonsPlus-1.10.0b.jar"
+                                     },
+                                     {
+                                         "name":  "create-enchantment-industry-2.3.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create-enchantment-industry-2.3.1.jar"
+                                     },
+                                     {
+                                         "name":  "createendertransmission-2.1.1-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createendertransmission-2.1.1-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "createjeicompat-1.0.2",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createjeicompat-1.0.2.jar"
+                                     },
+                                     {
+                                         "name":  "create-new-age-1.1.7c+neoforge-mc1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create-new-age-1.1.7c%2Bneoforge-mc1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "createpropulsion-1.1.4 (1)",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createpropulsion-1.1.4%20(1).jar"
+                                     },
+                                     {
+                                         "name":  "create-stuff-additions1.21.1_v2.1.3",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/create-stuff-additions1.21.1_v2.1.3.jar"
+                                     },
+                                     {
+                                         "name":  "createthreadedtrains-neoforge-1.21.1-1.0.0",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/createthreadedtrains-neoforge-1.21.1-1.0.0.jar"
+                                     },
+                                     {
+                                         "name":  "CreativeCore_NEOFORGE_v2.13.38_mc1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "CreeperOverhaul-neoforge-1.21.1-4.0.6",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
+                                     },
+                                     {
+                                         "name":  "cupboard-1.21-3.5",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/cupboard-1.21-3.5.jar"
+                                     },
+                                     {
+                                         "name":  "curios-neoforge-9.5.1+1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/curios-neoforge-9.5.1%2B1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "DnDesires-1.21.1-2.3a-BETA (1)",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/DnDesires-1.21.1-2.3a-BETA%20(1).jar"
+                                     },
+                                     {
+                                         "name":  "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar"
+                                     },
+                                     {
+                                         "name":  "emotecraft-for-MC1.21.1-2.4.12-neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
+                                     },
+                                     {
+                                         "name":  "emotetweaks-neoforge-1.0.4",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/emotetweaks-neoforge-1.0.4.jar"
+                                     },
+                                     {
+                                         "name":  "endermanoverhaul-neoforge-1.21.1-2.0.3",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/endermanoverhaul-neoforge-1.21.1-2.0.3.jar"
+                                     },
+                                     {
+                                         "name":  "endrem_additions-neoforge-1.1.0",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/endrem_additions-neoforge-1.1.0.jar"
+                                     },
+                                     {
+                                         "name":  "endrem-neoforge-1.21.X-6.0.2",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/endrem-neoforge-1.21.X-6.0.2.jar"
+                                     },
+                                     {
+                                         "name":  "entity_model_features_1.21-neoforge-3.2.2",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/entity_model_features_1.21-neoforge-3.2.2.jar"
+                                     },
+                                     {
+                                         "name":  "entity_texture_features_1.21-neoforge-7.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/entity_texture_features_1.21-neoforge-7.1.jar"
+                                     },
+                                     {
+                                         "name":  "entityculling-neoforge-1.10.1-mc1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/entityculling-neoforge-1.10.1-mc1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "escalated-1.3.0-mc.1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/escalated-1.3.0-mc.1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "exposure-neoforge-1.21.1-1.9.16",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/exposure-neoforge-1.21.1-1.9.16.jar"
+                                     },
+                                     {
+                                         "name":  "FarmersDelight-1.21.1-1.3.0",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/FarmersDelight-1.21.1-1.3.0.jar"
+                                     },
+                                     {
+                                         "name":  "ferritecore-7.0.3-neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/ferritecore-7.0.3-neoforge.jar"
+                                     },
+                                     {
+                                         "name":  "forgematica-0.4.1+mc1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/forgematica-0.4.1%2Bmc1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "forgified-fabric-api-0.116.7+2.2.4+1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "FramedBlocks-10.5.3",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/FramedBlocks-10.5.3.jar"
+                                     },
+                                     {
+                                         "name":  "geckolib-neoforge-1.21.1-4.8.4",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/geckolib-neoforge-1.21.1-4.8.4.jar"
+                                     },
+                                     {
+                                         "name":  "gjeb-neoforge-1.21.1-1.3.0.40",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/gjeb-neoforge-1.21.1-1.3.0.40.jar"
+                                     },
+                                     {
+                                         "name":  "globalpacks-neoforge-1.21.1-21.0.6",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/globalpacks-neoforge-1.21.1-21.0.6.jar"
+                                     },
+                                     {
+                                         "name":  "gpumemleakfix-1.21-1.8",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/gpumemleakfix-1.21-1.8.jar"
+                                     },
+                                     {
+                                         "name":  "hideexperimentalwarning-1.21.1-1.2",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/hideexperimentalwarning-1.21.1-1.2.jar"
+                                     },
+                                     {
+                                         "name":  "ImmediatelyFast-NeoForge-1.6.10+1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "ImmersiveUI-NEOFORGE-0.3.3+1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "interiors-1.21.1-neoforge-0.6.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/interiors-1.21.1-neoforge-0.6.1.jar"
+                                     },
+                                     {
+                                         "name":  "iris-neoforge-1.8.12+mc1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "Jade-1.21.1-NeoForge-15.10.5",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Jade-1.21.1-NeoForge-15.10.5.jar"
+                                     },
+                                     {
+                                         "name":  "JadeAddons-1.21.1-NeoForge-6.1.0",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
+                                     },
+                                     {
+                                         "name":  "jei-1.21.1-neoforge-19.27.0.340",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/jei-1.21.1-neoforge-19.27.0.340.jar"
+                                     },
+                                     {
+                                         "name":  "justzoom_neoforge_2.1.0_MC_1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "konkrete_neoforge_1.9.9_MC_1.21",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
+                                     },
+                                     {
+                                         "name":  "kubejs-neoforge-2101.7.2-build.363",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/kubejs-neoforge-2101.7.2-build.363.jar"
+                                     },
+                                     {
+                                         "name":  "letsdo-brewery-neoforge-2.1.9",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/letsdo-brewery-neoforge-2.1.9.jar"
+                                     },
+                                     {
+                                         "name":  "letsdo-farm_and_charm-neoforge-1.1.22",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/letsdo-farm_and_charm-neoforge-1.1.22.jar"
+                                     },
+                                     {
+                                         "name":  "letsdo-vinery-neoforge-1.5.3",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/letsdo-vinery-neoforge-1.5.3.jar"
+                                     },
+                                     {
+                                         "name":  "lithostitched-1.7.2-neoforge-21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/lithostitched-1.7.2-neoforge-21.1.jar"
+                                     },
+                                     {
+                                         "name":  "mafglib-0.4.3+mc1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/mafglib-0.4.3%2Bmc1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "melody_neoforge_1.0.10_MC_1.21",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/melody_neoforge_1.0.10_MC_1.21.jar"
+                                     },
+                                     {
+                                         "name":  "modernfix-neoforge-5.27.4+mc1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/modernfix-neoforge-5.27.4%2Bmc1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "moonlight-1.21-2.29.33-neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/moonlight-1.21-2.29.33-neoforge.jar"
+                                     },
+                                     {
+                                         "name":  "moonlight-neoforge-1.21.1-3.0.7 (1)",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/moonlight-neoforge-1.21.1-3.0.7%20(1).jar"
+                                     },
+                                     {
+                                         "name":  "moreculling-neoforge-1.21.1-1.0.7",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/moreculling-neoforge-1.21.1-1.0.7.jar"
+                                     },
+                                     {
+                                         "name":  "MossyLib-1.1.0+1.21.1+neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/MossyLib-1.1.0%2B1.21.1%2Bneoforge.jar"
+                                     },
+                                     {
+                                         "name":  "MouseTweaks-neoforge-mc1.21-2.26.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+                                     },
+                                     {
+                                         "name":  "mru-1.0.19+LTS+1.21.1+neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar"
+                                     },
+                                     {
+                                         "name":  "noisium-neoforge-2.7.0+mc1.21-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/noisium-neoforge-2.7.0%2Bmc1.21-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "notebook-4.1.1+1.21-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/notebook-4.1.1%2B1.21-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "notebook-4.1.1+1.21-1.21.1_mapped_moj_1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/notebook-4.1.1%2B1.21-1.21.1_mapped_moj_1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "no-void-structures-2.0.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/no-void-structures-2.0.1.jar"
+                                     },
+                                     {
+                                         "name":  "OctoLib-NEOFORGE-0.6.2+1.21",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/OctoLib-NEOFORGE-0.6.2%2B1.21.jar"
+                                     },
+                                     {
+                                         "name":  "owo-lib-neoforge-0.12.15.5-beta.1+1.21",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar"
+                                     },
+                                     {
+                                         "name":  "packetfixer-3.3.1-1.20.5-1.21.X-merged",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+                                     },
+                                     {
+                                         "name":  "particular-1.21.1-NeoForge-1.1.7",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/particular-1.21.1-NeoForge-1.1.7.jar"
+                                     },
+                                     {
+                                         "name":  "railways-0.2.0-beta.2+neoforge-mc1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/railways-0.2.0-beta.2%2Bneoforge-mc1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "rbp_neoforge-1.0.0",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/rbp_neoforge-1.0.0.jar"
+                                     },
+                                     {
+                                         "name":  "reeses-sodium-options-neoforge-1.8.3+mc1.21.4",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar"
+                                     },
+                                     {
+                                         "name":  "reforgedplaymod-1.21.1-0.3",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/reforgedplaymod-1.21.1-0.3.jar"
+                                     },
+                                     {
+                                         "name":  "resourcefulconfig-neoforge-1.21-3.0.11",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+                                     },
+                                     {
+                                         "name":  "resourcefullib-neoforge-1.21-3.0.12",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/resourcefullib-neoforge-1.21-3.0.12.jar"
+                                     },
+                                     {
+                                         "name":  "revamped-floating-islands-1.1.6",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/revamped-floating-islands-1.1.6.jar"
+                                     },
+                                     {
+                                         "name":  "rhino-2101.2.7-build.81",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/rhino-2101.2.7-build.81.jar"
+                                     },
+                                     {
+                                         "name":  "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar"
+                                     },
+                                     {
+                                         "name":  "sable-neoforge-1.21.1-1.2.2",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sable-neoforge-1.21.1-1.2.2.jar"
+                                     },
+                                     {
+                                         "name":  "SableStuffAdditionsCompat v1.0.1-1.21.1 (4)",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/SableStuffAdditionsCompat%20v1.0.1-1.21.1%20(4).jar"
+                                     },
+                                     {
+                                         "name":  "scholar-neoforge-1.21.1-1.2.3",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/scholar-neoforge-1.21.1-1.2.3.jar"
+                                     },
+                                     {
+                                         "name":  "Scribble-1.5.1+mc1.21-neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Scribble-1.5.1%2Bmc1.21-neoforge.jar"
+                                     },
+                                     {
+                                         "name":  "shellbound_for_airship-1.0.0-neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/shellbound_for_airship-1.0.0-neoforge.jar"
+                                     },
+                                     {
+                                         "name":  "smooth_hover-neoforge-1.0",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/smooth_hover-neoforge-1.0.jar"
+                                     },
+                                     {
+                                         "name":  "sodiumdynamiclights-neoforge-1.0.10-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "sodium-extra-neoforge-0.6.0+mc1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "sodiumextras-neoforge-1.0.8-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sodiumextras-neoforge-1.0.8-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "sodium-neoforge-0.6.13+mc1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "sodiumoptionsapi-neoforge-1.0.10-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "sophisticatedbackpacks-1.21.1-3.25.41.1683",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar"
+                                     },
+                                     {
+                                         "name":  "sophisticatedbackpacks-1.21.1-3.25.42.1709",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar"
+                                     },
+                                     {
+                                         "name":  "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar"
+                                     },
+                                     {
+                                         "name":  "sophisticatedcore-1.21.1-1.4.29.1752",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedcore-1.21.1-1.4.29.1752.jar"
+                                     },
+                                     {
+                                         "name":  "sophisticatedcore-1.21.1-1.4.33.1808",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedcore-1.21.1-1.4.33.1808.jar"
+                                     },
+                                     {
+                                         "name":  "sophisticatedsorter-1.0.6-hotfix",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedsorter-1.0.6-hotfix.jar"
+                                     },
+                                     {
+                                         "name":  "sophisticatedstorage-1.21.1-1.5.44.1680",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedstorage-1.21.1-1.5.44.1680.jar"
+                                     },
+                                     {
+                                         "name":  "sophisticatedstoragecreateintegration-1.21.1-0.1.17.132",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar"
+                                     },
+                                     {
+                                         "name":  "sounds-2.4.22+lts+1.21.1-neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar"
+                                     },
+                                     {
+                                         "name":  "tenshilib-1.21.1-2.2.5-neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/tenshilib-1.21.1-2.2.5-neoforge.jar"
+                                     },
+                                     {
+                                         "name":  "tracks-neoforge-1.21.1-1.0.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/tracks-neoforge-1.21.1-1.0.1.jar"
+                                     },
+                                     {
+                                         "name":  "Tyz\u0027s skills 6.2.0 - 1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/Tyz\u0027s%20skills%206.2.0%20-%201.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "unbreakable_netherite_pickaxe-1.0.0-neoforge-1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/unbreakable_netherite_pickaxe-1.0.0-neoforge-1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "variantsandventures-neoforge-1.0.24+mc1.21.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/variantsandventures-neoforge-1.0.24%2Bmc1.21.1.jar"
+                                     },
+                                     {
+                                         "name":  "VistaAeronauticsFix-1.0.0",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/VistaAeronauticsFix-1.0.0.jar"
+                                     },
+                                     {
+                                         "name":  "vista-neoforge-1.21.1-4.3.1",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/vista-neoforge-1.21.1-4.3.1.jar"
+                                     },
+                                     {
+                                         "name":  "voicechat-neoforge-1.21.1-2.6.16",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/voicechat-neoforge-1.21.1-2.6.16.jar"
+                                     },
+                                     {
+                                         "name":  "walkietalkie-neoforge-1.21.1-1.0.5",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/walkietalkie-neoforge-1.21.1-1.0.5.jar"
+                                     },
+                                     {
+                                         "name":  "waterframes-NEOFORGE-mc1.21.1-v2.1.23",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar"
+                                     },
+                                     {
+                                         "name":  "watermedia-2.1.34",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/watermedia-2.1.34.jar"
+                                     },
+                                     {
+                                         "name":  "watervision-NF-mc1.21.1-v0.1.0-alpha",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/watervision-NF-mc1.21.1-v0.1.0-alpha.jar"
+                                     },
+                                     {
+                                         "name":  "WeatherRefind-neoforge-1.21.1-v1.4",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/WeatherRefind-neoforge-1.21.1-v1.4.jar"
+                                     },
+                                     {
+                                         "name":  "worldedit-mod-7.3.8",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/worldedit-mod-7.3.8.jar"
+                                     },
+                                     {
+                                         "name":  "xaerominimap-neoforge-1.21.1-25.3.10",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/xaerominimap-neoforge-1.21.1-25.3.10.jar"
+                                     },
+                                     {
+                                         "name":  "xaeroworldmap-neoforge-1.21.1-1.40.11",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/xaeroworldmap-neoforge-1.21.1-1.40.11.jar"
+                                     },
+                                     {
+                                         "name":  "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge",
+                                         "hash":  "",
+                                         "serverOnly":  false,
+                                         "required":  true,
+                                         "clientOnly":  false,
+                                         "url":  "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+                                     }
+                                 ],
+                        "minMemory":  1024,
+                        "id":  "pasterox",
+                        "description":  "NeoForge 1.21.1",
+                        "libraries":  [
+
+                                      ],
+                        "displayName":  "§bPasterox",
+                        "version":  "1.0.0",
+                        "minecraftArgs":  [
+
+                                          ],
+                        "name":  "Pasterox",
+                        "releaseType":  "release"
+                    }
+                ]
+}
