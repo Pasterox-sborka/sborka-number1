@@ -8,6 +8,7 @@ const MODS_DIR = path.join(__dirname, 'mods')
 const distro = {
     rss: RAW + '/rss.xml',
     servers: [{
+        id: 'pasterox',
         icon: RAW + '/icon.png',
         modpackDir: 'pasterox',
         minecraftVersion: '1.21.1',

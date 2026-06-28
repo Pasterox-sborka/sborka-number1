@@ -2,6 +2,7 @@
     "rss": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/rss.xml",
     "servers": [
         {
+            "id": "pasterox",
             "icon": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/icon.png",
             "modpackDir": "pasterox",
             "minecraftVersion": "1.21.1",
