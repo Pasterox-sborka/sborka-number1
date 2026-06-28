@@ -1,8 +1,8 @@
 {
-    "rss": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/rss.xml",
+    "rss": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/rss.xml",
     "servers": [
         {
-            "icon": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/icon.png",
+            "icon": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/icon.png",
             "modpackDir": "pasterox",
             "minecraftVersion": "1.21.1",
             "address": "c15.play2go.cloud:20058",
@@ -13,7 +13,7 @@
                             "id": "neoforge-21.1.121-1.21.1",
                             "type": "VersionManifest",
                             "artifact": {
-                                "url": "https://cdn.jsdelivr.net/gh/Pasterox-sborka/sborka-number1@main/neoforge-21.1.121-1.21.1.json",
+                                "url": "https://raw.githubusercontent.com/Pasterox-sborka/sborka-number1/main/neoforge-21.1.121-1.21.1.json",
                                 "size": 355
                             }
                         }
